@@ -1,0 +1,28 @@
+,date,title,url
+0,2021-09-28,"Первые шаги в aiohttp, часть 3: публикуем приложение в Интернете",https://habr.com/ru/post/580202/?utm_campaign=580202&utm_source=habrahabr&utm_medium=rss
+1,2021-07-06,Реализация алгоритма Минимакс на примере игры «Крестики-Нолики»,https://habr.com/ru/post/329058/?utm_campaign=329058&utm_source=habrahabr&utm_medium=rss
+2,2021-04-19,Deploying a Python Flask Example Application Using Heroku,https://realpython.com/flask-by-example-part-1-project-setup/
+3,2020-12-21,"Как прогнозировать результаты спортивных матчей с помощью проекта ML на Python Pandas, Keras, Flask, Docker и Heroku",https://habr.com/ru/post/534078/?utm_campaign=534078&utm_source=habrahabr&utm_medium=rss
+4,2020-02-05,Разворачиваем Django приложение из Github в Heroku,https://stackabuse.com/deploying-django-apps-to-heroku-from-github/
+5,2020-01-30,Пишем сервис одноразовых записок на Python,https://habr.com/ru/post/486246/?utm_campaign=486246&utm_source=habrahabr&utm_medium=rss
+6,2019-08-17,Django x Docker to Production on Heroku,https://www.codingforentrepreneurs.com/posts/django-docker-production-heroku/
+7,2019-06-30,heroku-load-balancer - Load balancer for Heroku,https://github.com/dmytrostriletskyi/heroku-load-balancer
+8,2018-12-05,Пишем Telegram бота Django на Heroku – Часть 10. Принимаем Webhook,https://www.marc-richter.info/django-telegram-bot-part-10/
+9,2018-11-12,"Как создать чат-бота для ВКонтакте, используя Python, Django и webhook",https://habr.com/post/429628/?utm_campaign=429628
+10,2018-08-06,Пишем Telegram бота с Django на Heroku – Часть 3,https://www.marc-richter.info/create-your-own-telegram-bot-with-django-on-heroku-part-3/
+11,2018-04-05,"Мега-Учебник Flask, Часть XVIII: Развертывание на Heroku",https://habrahabr.ru/post/352830/?utm_campaign=352830
+12,2018-03-07,Создание и хостинг телеграм бота. От А до Я,https://habrahabr.ru/post/350648/?utm_campaign=350648
+13,2018-01-02,Разворачиваем Flask приложение на Heroku,https://www.codementor.io/johnkagga/deploying-a-python-flask-app-on-heroku-fdot1rq09
+14,2017-08-25,Как сделать проект по распознаванию рукописных цифр с дообучением онлайн. Гайд для не совсем начинающих,https://habrahabr.ru/post/335998/
+15,2017-08-04,Пишем бота для Slack на Python,https://habrahabr.ru/post/334678/
+16,2016-11-23,"Как запустить Python и Ruby, на Heroku с несколькими Buildpacks",https://www.codementor.io/devops/tutorial/how-to-run-python-and-ruby-on-heroku-with-multiple-buildpacks
+17,2016-05-22,Развертываем Django на Heroku,http://feedproxy.google.com/~r/djangotricks/~3/s8MgbkFz0-4/deploying-django-website-on-heroku.html
+18,2015-09-18,"Wooey - django-приложение, которое может автоматически создавать UI для скриптов",http://github.com/wooey/Wooey
+19,2015-01-09,Применение дополнительных wsgi-серверов на OpenShift,http://blog.dscpl.com.au/2015/01/using-alternative-wsgi-servers-with.html
+20,2014-11-28,Автоматическое горизонтальное масштабирование Heroku-приложений,https://realpython.com/blog/python/automatically-scale-heroku-dynos/
+21,2014-11-24,Запуск набора для автоматизации тестирования Robot Framework на Heroku,http://www.screenful.me/blog/2014/9/2/how-to-run-your-robot-framework-test-suite-on-heroku
+22,2014-10-24,Django REST Framework,https://speakerdeck.com/kevinharvey/django-rest-framework
+23,2014-09-15,"Мега-Учебник Flask, Часть 18: Развертывание на Heroku Cloud",http://habrahabr.ru/post/237517/
+24,2014-04-04,Облачные вычисления - практическое применение Heroku. Часть 1,http://pythonthusiast.pythonblogs.com/230_pythonthusiast/archive/1372_python_cloud_computing_2_practical_hands-on_using_heroku-part_1_of_2.html
+25,2013-11-15,"Легковесные приложения на стеке Flask, Twitter Bootstrap и Heroku",http://ryaneshea.com/lightweight-python-apps-with-flask-twitter-bootstrap-and-heroku
+26,2013-11-07,Перенос традиционного django приложения на heroku,http://www.realpython.com/blog/python/migrating-your-django-project-to-heroku
